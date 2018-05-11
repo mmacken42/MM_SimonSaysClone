@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MM_SimonSaysClone.data.unityweb",
+"asmCodeUrl": "MM_SimonSaysClone.asm.code.unityweb",
+"asmMemoryUrl": "MM_SimonSaysClone.asm.memory.unityweb",
+"asmFrameworkUrl": "MM_SimonSaysClone.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
